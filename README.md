@@ -7,4 +7,4 @@ Enjoy Playing this Game
 
 
 
-      http://127.0.0.1:5500/Snake-game.html
+      file:///Users/sukhmanpreetsingh/Desktop/HTML/Snake-game.html
